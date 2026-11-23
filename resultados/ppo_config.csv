@@ -1,0 +1,11 @@
+id,recompensas,n_envs,learning_rate,n_steps,batch_size,n_epochs,gamma,gae_lambda,clip_range,ent_coef,net_arch,alterados
+PPO01,R3,8,0.0003,2048,64,10,0.99,0.95,0.2,0.0,"64, 64",
+PPO02,R3,8,0.001,2048,64,10,0.99,0.95,0.2,0.0,"64, 64",learning_rate
+PPO03,R3,8,0.0001,2048,64,10,0.99,0.95,0.2,0.0,"64, 64",learning_rate
+PPO04,R3,8,0.0003,2048,64,10,0.99,0.95,0.2,0.01,"64, 64",ent_coef
+PPO05,R3,8,0.0003,2048,64,10,0.9,0.95,0.2,0.0,"64, 64",gamma
+PPO06,R3,8,0.0003,2048,64,10,0.999,0.98,0.2,0.0,"64, 64",gae_lambda gamma
+PPO07,R3,8,0.0003,256,256,10,0.99,0.95,0.2,0.0,"64, 64",batch_size n_steps
+PPO08,R3,8,0.0003,2048,64,4,0.99,0.95,0.1,0.0,"64, 64",clip_range n_epochs
+PPO09,R3,8,0.0003,2048,64,10,0.99,0.95,0.2,0.0,"256, 256",net_arch
+PPO10,R3,8,0.0003,512,256,10,0.98,0.95,0.2,0.01,"128, 128",batch_size ent_coef gamma n_steps net_arch

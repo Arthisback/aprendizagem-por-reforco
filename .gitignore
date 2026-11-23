@@ -1,0 +1,3 @@
+__pycache__/
+# modelos dos testes preliminares (só os logs e o CSV interessam; 49 MB)
+resultados/preliminar/*/q_learning_model.pkl

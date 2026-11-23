@@ -1,0 +1,1639 @@
+Iniciando Treinamento
+Episode 100, Mean Reward: -273.90, Success Rate: 0.05
+Explore Chance (epsilon):  0.99
+Exploit Chance (1-epsilon):  0.010000000000000009
+Learning Rate (alpha):  0.1
+Episode 200, Mean Reward: -218.82, Success Rate: 0.11
+Explore Chance (epsilon):  0.9801
+Exploit Chance (1-epsilon):  0.01990000000000003
+Learning Rate (alpha):  0.1
+Episode 300, Mean Reward: -247.22, Success Rate: 0.08
+Explore Chance (epsilon):  0.9702989999999999
+Exploit Chance (1-epsilon):  0.02970100000000009
+Learning Rate (alpha):  0.1
+Episode 400, Mean Reward: -265.04, Success Rate: 0.10
+Explore Chance (epsilon):  0.96059601
+Exploit Chance (1-epsilon):  0.039403990000000055
+Learning Rate (alpha):  0.1
+Episode 500, Mean Reward: -239.53, Success Rate: 0.11
+Explore Chance (epsilon):  0.9509900498999999
+Exploit Chance (1-epsilon):  0.04900995010000009
+Learning Rate (alpha):  0.1
+Episode 600, Mean Reward: -222.19, Success Rate: 0.15
+Explore Chance (epsilon):  0.9414801494009999
+Exploit Chance (1-epsilon):  0.05851985059900011
+Learning Rate (alpha):  0.1
+Episode 700, Mean Reward: -231.17, Success Rate: 0.12
+Explore Chance (epsilon):  0.9320653479069899
+Exploit Chance (1-epsilon):  0.06793465209301008
+Learning Rate (alpha):  0.1
+Episode 800, Mean Reward: -220.39, Success Rate: 0.14
+Explore Chance (epsilon):  0.92274469442792
+Exploit Chance (1-epsilon):  0.07725530557208005
+Learning Rate (alpha):  0.1
+Episode 900, Mean Reward: -214.42, Success Rate: 0.20
+Explore Chance (epsilon):  0.9135172474836407
+Exploit Chance (1-epsilon):  0.08648275251635928
+Learning Rate (alpha):  0.1
+Episode 1000, Mean Reward: -252.64, Success Rate: 0.09
+Explore Chance (epsilon):  0.9043820750088043
+Exploit Chance (1-epsilon):  0.0956179249911957
+Learning Rate (alpha):  0.1
+Episode 1100, Mean Reward: -205.73, Success Rate: 0.20
+Explore Chance (epsilon):  0.8953382542587163
+Exploit Chance (1-epsilon):  0.10466174574128373
+Learning Rate (alpha):  0.1
+Episode 1200, Mean Reward: -228.52, Success Rate: 0.08
+Explore Chance (epsilon):  0.8863848717161291
+Exploit Chance (1-epsilon):  0.11361512828387088
+Learning Rate (alpha):  0.1
+Episode 1300, Mean Reward: -242.54, Success Rate: 0.11
+Explore Chance (epsilon):  0.8775210229989678
+Exploit Chance (1-epsilon):  0.12247897700103216
+Learning Rate (alpha):  0.1
+Episode 1400, Mean Reward: -218.05, Success Rate: 0.15
+Explore Chance (epsilon):  0.8687458127689781
+Exploit Chance (1-epsilon):  0.1312541872310219
+Learning Rate (alpha):  0.1
+Episode 1500, Mean Reward: -198.22, Success Rate: 0.17
+Explore Chance (epsilon):  0.8600583546412883
+Exploit Chance (1-epsilon):  0.13994164535871167
+Learning Rate (alpha):  0.1
+Episode 1600, Mean Reward: -192.36, Success Rate: 0.19
+Explore Chance (epsilon):  0.8514577710948754
+Exploit Chance (1-epsilon):  0.14854222890512458
+Learning Rate (alpha):  0.1
+Episode 1700, Mean Reward: -207.87, Success Rate: 0.18
+Explore Chance (epsilon):  0.8429431933839266
+Exploit Chance (1-epsilon):  0.15705680661607335
+Learning Rate (alpha):  0.1
+Episode 1800, Mean Reward: -221.43, Success Rate: 0.14
+Explore Chance (epsilon):  0.8345137614500874
+Exploit Chance (1-epsilon):  0.16548623854991262
+Learning Rate (alpha):  0.1
+Episode 1900, Mean Reward: -199.44, Success Rate: 0.25
+Explore Chance (epsilon):  0.8261686238355865
+Exploit Chance (1-epsilon):  0.17383137616441346
+Learning Rate (alpha):  0.1
+Episode 2000, Mean Reward: -186.92, Success Rate: 0.17
+Explore Chance (epsilon):  0.8179069375972307
+Exploit Chance (1-epsilon):  0.18209306240276935
+Learning Rate (alpha):  0.1
+Episode 2100, Mean Reward: -200.05, Success Rate: 0.21
+Explore Chance (epsilon):  0.8097278682212583
+Exploit Chance (1-epsilon):  0.1902721317787417
+Learning Rate (alpha):  0.1
+Episode 2200, Mean Reward: -227.66, Success Rate: 0.17
+Explore Chance (epsilon):  0.8016305895390458
+Exploit Chance (1-epsilon):  0.19836941046095424
+Learning Rate (alpha):  0.1
+Episode 2300, Mean Reward: -185.33, Success Rate: 0.24
+Explore Chance (epsilon):  0.7936142836436553
+Exploit Chance (1-epsilon):  0.20638571635634473
+Learning Rate (alpha):  0.1
+Episode 2400, Mean Reward: -180.49, Success Rate: 0.21
+Explore Chance (epsilon):  0.7856781408072188
+Exploit Chance (1-epsilon):  0.21432185919278124
+Learning Rate (alpha):  0.1
+Episode 2500, Mean Reward: -182.01, Success Rate: 0.19
+Explore Chance (epsilon):  0.7778213593991465
+Exploit Chance (1-epsilon):  0.22217864060085346
+Learning Rate (alpha):  0.1
+Episode 2600, Mean Reward: -180.57, Success Rate: 0.18
+Explore Chance (epsilon):  0.7700431458051551
+Exploit Chance (1-epsilon):  0.2299568541948449
+Learning Rate (alpha):  0.1
+Episode 2700, Mean Reward: -166.96, Success Rate: 0.25
+Explore Chance (epsilon):  0.7623427143471035
+Exploit Chance (1-epsilon):  0.23765728565289646
+Learning Rate (alpha):  0.1
+Episode 2800, Mean Reward: -200.39, Success Rate: 0.23
+Explore Chance (epsilon):  0.7547192872036325
+Exploit Chance (1-epsilon):  0.24528071279636754
+Learning Rate (alpha):  0.1
+Episode 2900, Mean Reward: -187.93, Success Rate: 0.28
+Explore Chance (epsilon):  0.7471720943315961
+Exploit Chance (1-epsilon):  0.25282790566840385
+Learning Rate (alpha):  0.1
+Episode 3000, Mean Reward: -160.28, Success Rate: 0.35
+Explore Chance (epsilon):  0.7397003733882802
+Exploit Chance (1-epsilon):  0.2602996266117198
+Learning Rate (alpha):  0.1
+Episode 3100, Mean Reward: -181.49, Success Rate: 0.21
+Explore Chance (epsilon):  0.7323033696543974
+Exploit Chance (1-epsilon):  0.26769663034560265
+Learning Rate (alpha):  0.1
+Episode 3200, Mean Reward: -153.04, Success Rate: 0.24
+Explore Chance (epsilon):  0.7249803359578534
+Exploit Chance (1-epsilon):  0.2750196640421466
+Learning Rate (alpha):  0.1
+Episode 3300, Mean Reward: -168.77, Success Rate: 0.39
+Explore Chance (epsilon):  0.7177305325982748
+Exploit Chance (1-epsilon):  0.2822694674017252
+Learning Rate (alpha):  0.1
+Episode 3400, Mean Reward: -182.12, Success Rate: 0.21
+Explore Chance (epsilon):  0.7105532272722921
+Exploit Chance (1-epsilon):  0.2894467727277079
+Learning Rate (alpha):  0.1
+Episode 3500, Mean Reward: -141.25, Success Rate: 0.32
+Explore Chance (epsilon):  0.7034476949995692
+Exploit Chance (1-epsilon):  0.29655230500043084
+Learning Rate (alpha):  0.1
+Episode 3600, Mean Reward: -176.90, Success Rate: 0.23
+Explore Chance (epsilon):  0.6964132180495735
+Exploit Chance (1-epsilon):  0.30358678195042654
+Learning Rate (alpha):  0.1
+Episode 3700, Mean Reward: -158.19, Success Rate: 0.22
+Explore Chance (epsilon):  0.6894490858690777
+Exploit Chance (1-epsilon):  0.3105509141309223
+Learning Rate (alpha):  0.1
+Episode 3800, Mean Reward: -147.35, Success Rate: 0.27
+Explore Chance (epsilon):  0.682554595010387
+Exploit Chance (1-epsilon):  0.31744540498961304
+Learning Rate (alpha):  0.1
+Episode 3900, Mean Reward: -165.95, Success Rate: 0.20
+Explore Chance (epsilon):  0.6757290490602831
+Exploit Chance (1-epsilon):  0.3242709509397169
+Learning Rate (alpha):  0.1
+Episode 4000, Mean Reward: -148.02, Success Rate: 0.29
+Explore Chance (epsilon):  0.6689717585696803
+Exploit Chance (1-epsilon):  0.3310282414303197
+Learning Rate (alpha):  0.1
+Episode 4100, Mean Reward: -144.97, Success Rate: 0.29
+Explore Chance (epsilon):  0.6622820409839835
+Exploit Chance (1-epsilon):  0.33771795901601653
+Learning Rate (alpha):  0.1
+Episode 4200, Mean Reward: -163.07, Success Rate: 0.23
+Explore Chance (epsilon):  0.6556592205741436
+Exploit Chance (1-epsilon):  0.3443407794258564
+Learning Rate (alpha):  0.1
+Episode 4300, Mean Reward: -152.49, Success Rate: 0.24
+Explore Chance (epsilon):  0.6491026283684022
+Exploit Chance (1-epsilon):  0.35089737163159784
+Learning Rate (alpha):  0.1
+Episode 4400, Mean Reward: -149.49, Success Rate: 0.31
+Explore Chance (epsilon):  0.6426116020847181
+Exploit Chance (1-epsilon):  0.3573883979152819
+Learning Rate (alpha):  0.1
+Episode 4500, Mean Reward: -139.53, Success Rate: 0.32
+Explore Chance (epsilon):  0.6361854860638709
+Exploit Chance (1-epsilon):  0.36381451393612907
+Learning Rate (alpha):  0.1
+Episode 4600, Mean Reward: -147.33, Success Rate: 0.38
+Explore Chance (epsilon):  0.6298236312032323
+Exploit Chance (1-epsilon):  0.37017636879676774
+Learning Rate (alpha):  0.1
+Episode 4700, Mean Reward: -119.46, Success Rate: 0.44
+Explore Chance (epsilon):  0.6235253948912
+Exploit Chance (1-epsilon):  0.37647460510880004
+Learning Rate (alpha):  0.1
+Episode 4800, Mean Reward: -142.05, Success Rate: 0.36
+Explore Chance (epsilon):  0.617290140942288
+Exploit Chance (1-epsilon):  0.38270985905771204
+Learning Rate (alpha):  0.1
+Episode 4900, Mean Reward: -141.19, Success Rate: 0.31
+Explore Chance (epsilon):  0.6111172395328651
+Exploit Chance (1-epsilon):  0.3888827604671349
+Learning Rate (alpha):  0.1
+Episode 5000, Mean Reward: -104.06, Success Rate: 0.44
+Explore Chance (epsilon):  0.6050060671375365
+Exploit Chance (1-epsilon):  0.39499393286246354
+Learning Rate (alpha):  0.1
+Episode 5100, Mean Reward: -117.25, Success Rate: 0.37
+Explore Chance (epsilon):  0.5989560064661611
+Exploit Chance (1-epsilon):  0.4010439935338389
+Learning Rate (alpha):  0.1
+Episode 5200, Mean Reward: -131.26, Success Rate: 0.40
+Explore Chance (epsilon):  0.5929664464014994
+Exploit Chance (1-epsilon):  0.4070335535985006
+Learning Rate (alpha):  0.1
+Episode 5300, Mean Reward: -160.05, Success Rate: 0.28
+Explore Chance (epsilon):  0.5870367819374844
+Exploit Chance (1-epsilon):  0.41296321806251557
+Learning Rate (alpha):  0.1
+Episode 5400, Mean Reward: -118.11, Success Rate: 0.37
+Explore Chance (epsilon):  0.5811664141181095
+Exploit Chance (1-epsilon):  0.41883358588189046
+Learning Rate (alpha):  0.1
+Episode 5500, Mean Reward: -146.09, Success Rate: 0.35
+Explore Chance (epsilon):  0.5753547499769285
+Exploit Chance (1-epsilon):  0.4246452500230715
+Learning Rate (alpha):  0.1
+Episode 5600, Mean Reward: -117.70, Success Rate: 0.39
+Explore Chance (epsilon):  0.5696012024771592
+Exploit Chance (1-epsilon):  0.4303987975228408
+Learning Rate (alpha):  0.1
+Episode 5700, Mean Reward: -142.90, Success Rate: 0.34
+Explore Chance (epsilon):  0.5639051904523876
+Exploit Chance (1-epsilon):  0.43609480954761237
+Learning Rate (alpha):  0.1
+Episode 5800, Mean Reward: -145.70, Success Rate: 0.25
+Explore Chance (epsilon):  0.5582661385478638
+Exploit Chance (1-epsilon):  0.4417338614521362
+Learning Rate (alpha):  0.1
+Episode 5900, Mean Reward: -132.41, Success Rate: 0.28
+Explore Chance (epsilon):  0.5526834771623851
+Exploit Chance (1-epsilon):  0.4473165228376149
+Learning Rate (alpha):  0.1
+Episode 6000, Mean Reward: -120.97, Success Rate: 0.45
+Explore Chance (epsilon):  0.5471566423907612
+Exploit Chance (1-epsilon):  0.4528433576092388
+Learning Rate (alpha):  0.1
+Episode 6100, Mean Reward: -124.44, Success Rate: 0.40
+Explore Chance (epsilon):  0.5416850759668536
+Exploit Chance (1-epsilon):  0.45831492403314644
+Learning Rate (alpha):  0.1
+Episode 6200, Mean Reward: -113.33, Success Rate: 0.32
+Explore Chance (epsilon):  0.536268225207185
+Exploit Chance (1-epsilon):  0.463731774792815
+Learning Rate (alpha):  0.1
+Episode 6300, Mean Reward: -101.86, Success Rate: 0.36
+Explore Chance (epsilon):  0.5309055429551132
+Exploit Chance (1-epsilon):  0.46909445704488684
+Learning Rate (alpha):  0.1
+Episode 6400, Mean Reward: -120.09, Success Rate: 0.39
+Explore Chance (epsilon):  0.525596487525562
+Exploit Chance (1-epsilon):  0.474403512474438
+Learning Rate (alpha):  0.1
+Episode 6500, Mean Reward: -99.00, Success Rate: 0.36
+Explore Chance (epsilon):  0.5203405226503064
+Exploit Chance (1-epsilon):  0.4796594773496936
+Learning Rate (alpha):  0.1
+Episode 6600, Mean Reward: -105.51, Success Rate: 0.39
+Explore Chance (epsilon):  0.5151371174238033
+Exploit Chance (1-epsilon):  0.4848628825761967
+Learning Rate (alpha):  0.1
+Episode 6700, Mean Reward: -105.75, Success Rate: 0.40
+Explore Chance (epsilon):  0.5099857462495653
+Exploit Chance (1-epsilon):  0.4900142537504347
+Learning Rate (alpha):  0.1
+Episode 6800, Mean Reward: -106.49, Success Rate: 0.42
+Explore Chance (epsilon):  0.5048858887870696
+Exploit Chance (1-epsilon):  0.49511411121293036
+Learning Rate (alpha):  0.1
+Episode 6900, Mean Reward: -92.83, Success Rate: 0.42
+Explore Chance (epsilon):  0.4998370298991989
+Exploit Chance (1-epsilon):  0.500162970100801
+Learning Rate (alpha):  0.1
+Episode 7000, Mean Reward: -100.20, Success Rate: 0.44
+Explore Chance (epsilon):  0.49483865960020695
+Exploit Chance (1-epsilon):  0.505161340399793
+Learning Rate (alpha):  0.1
+Episode 7100, Mean Reward: -99.58, Success Rate: 0.46
+Explore Chance (epsilon):  0.4898902730042049
+Exploit Chance (1-epsilon):  0.510109726995795
+Learning Rate (alpha):  0.1
+Episode 7200, Mean Reward: -125.89, Success Rate: 0.28
+Explore Chance (epsilon):  0.48499137027416284
+Exploit Chance (1-epsilon):  0.5150086297258372
+Learning Rate (alpha):  0.1
+Episode 7300, Mean Reward: -110.94, Success Rate: 0.37
+Explore Chance (epsilon):  0.4801414565714212
+Exploit Chance (1-epsilon):  0.5198585434285787
+Learning Rate (alpha):  0.1
+Episode 7400, Mean Reward: -106.12, Success Rate: 0.44
+Explore Chance (epsilon):  0.475340042005707
+Exploit Chance (1-epsilon):  0.524659957994293
+Learning Rate (alpha):  0.1
+Episode 7500, Mean Reward: -83.01, Success Rate: 0.47
+Explore Chance (epsilon):  0.47058664158564995
+Exploit Chance (1-epsilon):  0.5294133584143501
+Learning Rate (alpha):  0.1
+Episode 7600, Mean Reward: -110.88, Success Rate: 0.37
+Explore Chance (epsilon):  0.4658807751697934
+Exploit Chance (1-epsilon):  0.5341192248302066
+Learning Rate (alpha):  0.1
+Episode 7700, Mean Reward: -121.15, Success Rate: 0.37
+Explore Chance (epsilon):  0.4612219674180955
+Exploit Chance (1-epsilon):  0.5387780325819045
+Learning Rate (alpha):  0.1
+Episode 7800, Mean Reward: -88.43, Success Rate: 0.41
+Explore Chance (epsilon):  0.45660974774391455
+Exploit Chance (1-epsilon):  0.5433902522560854
+Learning Rate (alpha):  0.1
+Episode 7900, Mean Reward: -99.74, Success Rate: 0.45
+Explore Chance (epsilon):  0.4520436502664754
+Exploit Chance (1-epsilon):  0.5479563497335246
+Learning Rate (alpha):  0.1
+Episode 8000, Mean Reward: -108.88, Success Rate: 0.35
+Explore Chance (epsilon):  0.44752321376381066
+Exploit Chance (1-epsilon):  0.5524767862361893
+Learning Rate (alpha):  0.1
+Episode 8100, Mean Reward: -80.43, Success Rate: 0.54
+Explore Chance (epsilon):  0.44304798162617254
+Exploit Chance (1-epsilon):  0.5569520183738275
+Learning Rate (alpha):  0.1
+Episode 8200, Mean Reward: -99.64, Success Rate: 0.41
+Explore Chance (epsilon):  0.4386175018099108
+Exploit Chance (1-epsilon):  0.5613824981900892
+Learning Rate (alpha):  0.1
+Episode 8300, Mean Reward: -109.95, Success Rate: 0.39
+Explore Chance (epsilon):  0.4342313267918117
+Exploit Chance (1-epsilon):  0.5657686732081884
+Learning Rate (alpha):  0.1
+Episode 8400, Mean Reward: -128.41, Success Rate: 0.42
+Explore Chance (epsilon):  0.4298890135238936
+Exploit Chance (1-epsilon):  0.5701109864761065
+Learning Rate (alpha):  0.1
+Episode 8500, Mean Reward: -91.15, Success Rate: 0.46
+Explore Chance (epsilon):  0.42559012338865465
+Exploit Chance (1-epsilon):  0.5744098766113453
+Learning Rate (alpha):  0.1
+Episode 8600, Mean Reward: -113.63, Success Rate: 0.35
+Explore Chance (epsilon):  0.4213342221547681
+Exploit Chance (1-epsilon):  0.5786657778452319
+Learning Rate (alpha):  0.1
+Episode 8700, Mean Reward: -87.21, Success Rate: 0.44
+Explore Chance (epsilon):  0.41712087993322045
+Exploit Chance (1-epsilon):  0.5828791200667796
+Learning Rate (alpha):  0.1
+Episode 8800, Mean Reward: -104.01, Success Rate: 0.42
+Explore Chance (epsilon):  0.41294967113388825
+Exploit Chance (1-epsilon):  0.5870503288661117
+Learning Rate (alpha):  0.1
+Episode 8900, Mean Reward: -89.00, Success Rate: 0.46
+Explore Chance (epsilon):  0.40882017442254937
+Exploit Chance (1-epsilon):  0.5911798255774506
+Learning Rate (alpha):  0.1
+Episode 9000, Mean Reward: -106.32, Success Rate: 0.34
+Explore Chance (epsilon):  0.4047319726783239
+Exploit Chance (1-epsilon):  0.5952680273216762
+Learning Rate (alpha):  0.1
+Episode 9100, Mean Reward: -64.61, Success Rate: 0.50
+Explore Chance (epsilon):  0.40068465295154065
+Exploit Chance (1-epsilon):  0.5993153470484593
+Learning Rate (alpha):  0.1
+Episode 9200, Mean Reward: -77.53, Success Rate: 0.46
+Explore Chance (epsilon):  0.39667780642202527
+Exploit Chance (1-epsilon):  0.6033221935779747
+Learning Rate (alpha):  0.1
+Episode 9300, Mean Reward: -71.54, Success Rate: 0.51
+Explore Chance (epsilon):  0.392711028357805
+Exploit Chance (1-epsilon):  0.607288971642195
+Learning Rate (alpha):  0.1
+Episode 9400, Mean Reward: -79.00, Success Rate: 0.48
+Explore Chance (epsilon):  0.38878391807422696
+Exploit Chance (1-epsilon):  0.611216081925773
+Learning Rate (alpha):  0.1
+Episode 9500, Mean Reward: -91.68, Success Rate: 0.40
+Explore Chance (epsilon):  0.3848960788934847
+Exploit Chance (1-epsilon):  0.6151039211065152
+Learning Rate (alpha):  0.1
+Episode 9600, Mean Reward: -86.57, Success Rate: 0.43
+Explore Chance (epsilon):  0.38104711810454983
+Exploit Chance (1-epsilon):  0.6189528818954502
+Learning Rate (alpha):  0.1
+Episode 9700, Mean Reward: -63.52, Success Rate: 0.54
+Explore Chance (epsilon):  0.37723664692350434
+Exploit Chance (1-epsilon):  0.6227633530764957
+Learning Rate (alpha):  0.1
+Episode 9800, Mean Reward: -55.11, Success Rate: 0.59
+Explore Chance (epsilon):  0.37346428045426927
+Exploit Chance (1-epsilon):  0.6265357195457307
+Learning Rate (alpha):  0.1
+Episode 9900, Mean Reward: -93.62, Success Rate: 0.45
+Explore Chance (epsilon):  0.36972963764972655
+Exploit Chance (1-epsilon):  0.6302703623502734
+Learning Rate (alpha):  0.1
+Episode 10000, Mean Reward: -73.45, Success Rate: 0.49
+Explore Chance (epsilon):  0.36603234127322926
+Exploit Chance (1-epsilon):  0.6339676587267707
+Learning Rate (alpha):  0.1
+Episode 10100, Mean Reward: -52.87, Success Rate: 0.57
+Explore Chance (epsilon):  0.36237201786049694
+Exploit Chance (1-epsilon):  0.637627982139503
+Learning Rate (alpha):  0.1
+Episode 10200, Mean Reward: -88.80, Success Rate: 0.38
+Explore Chance (epsilon):  0.358748297681892
+Exploit Chance (1-epsilon):  0.641251702318108
+Learning Rate (alpha):  0.1
+Episode 10300, Mean Reward: -79.99, Success Rate: 0.51
+Explore Chance (epsilon):  0.35516081470507305
+Exploit Chance (1-epsilon):  0.6448391852949269
+Learning Rate (alpha):  0.1
+Episode 10400, Mean Reward: -61.94, Success Rate: 0.48
+Explore Chance (epsilon):  0.3516092065580223
+Exploit Chance (1-epsilon):  0.6483907934419777
+Learning Rate (alpha):  0.1
+Episode 10500, Mean Reward: -69.12, Success Rate: 0.44
+Explore Chance (epsilon):  0.34809311449244207
+Exploit Chance (1-epsilon):  0.6519068855075579
+Learning Rate (alpha):  0.1
+Episode 10600, Mean Reward: -68.02, Success Rate: 0.52
+Explore Chance (epsilon):  0.34461218334751764
+Exploit Chance (1-epsilon):  0.6553878166524824
+Learning Rate (alpha):  0.1
+Episode 10700, Mean Reward: -55.37, Success Rate: 0.51
+Explore Chance (epsilon):  0.34116606151404244
+Exploit Chance (1-epsilon):  0.6588339384859576
+Learning Rate (alpha):  0.1
+Episode 10800, Mean Reward: -71.77, Success Rate: 0.49
+Explore Chance (epsilon):  0.337754400898902
+Exploit Chance (1-epsilon):  0.662245599101098
+Learning Rate (alpha):  0.1
+Episode 10900, Mean Reward: -67.48, Success Rate: 0.48
+Explore Chance (epsilon):  0.334376856889913
+Exploit Chance (1-epsilon):  0.665623143110087
+Learning Rate (alpha):  0.1
+Episode 11000, Mean Reward: -82.70, Success Rate: 0.46
+Explore Chance (epsilon):  0.33103308832101386
+Exploit Chance (1-epsilon):  0.6689669116789861
+Learning Rate (alpha):  0.1
+Episode 11100, Mean Reward: -83.34, Success Rate: 0.39
+Explore Chance (epsilon):  0.3277227574378037
+Exploit Chance (1-epsilon):  0.6722772425621963
+Learning Rate (alpha):  0.1
+Episode 11200, Mean Reward: -93.01, Success Rate: 0.42
+Explore Chance (epsilon):  0.3244455298634257
+Exploit Chance (1-epsilon):  0.6755544701365743
+Learning Rate (alpha):  0.1
+Episode 11300, Mean Reward: -73.20, Success Rate: 0.49
+Explore Chance (epsilon):  0.3212010745647914
+Exploit Chance (1-epsilon):  0.6787989254352086
+Learning Rate (alpha):  0.1
+Episode 11400, Mean Reward: -70.20, Success Rate: 0.53
+Explore Chance (epsilon):  0.3179890638191435
+Exploit Chance (1-epsilon):  0.6820109361808565
+Learning Rate (alpha):  0.1
+Episode 11500, Mean Reward: -63.25, Success Rate: 0.51
+Explore Chance (epsilon):  0.31480917318095203
+Exploit Chance (1-epsilon):  0.685190826819048
+Learning Rate (alpha):  0.1
+Episode 11600, Mean Reward: -68.15, Success Rate: 0.49
+Explore Chance (epsilon):  0.3116610814491425
+Exploit Chance (1-epsilon):  0.6883389185508575
+Learning Rate (alpha):  0.1
+Episode 11700, Mean Reward: -65.80, Success Rate: 0.49
+Explore Chance (epsilon):  0.30854447063465107
+Exploit Chance (1-epsilon):  0.6914555293653489
+Learning Rate (alpha):  0.1
+Episode 11800, Mean Reward: -70.73, Success Rate: 0.55
+Explore Chance (epsilon):  0.30545902592830454
+Exploit Chance (1-epsilon):  0.6945409740716955
+Learning Rate (alpha):  0.1
+Episode 11900, Mean Reward: -69.46, Success Rate: 0.48
+Explore Chance (epsilon):  0.3024044356690215
+Exploit Chance (1-epsilon):  0.6975955643309786
+Learning Rate (alpha):  0.1
+Episode 12000, Mean Reward: -51.04, Success Rate: 0.55
+Explore Chance (epsilon):  0.29938039131233124
+Exploit Chance (1-epsilon):  0.7006196086876688
+Learning Rate (alpha):  0.1
+Episode 12100, Mean Reward: -80.74, Success Rate: 0.48
+Explore Chance (epsilon):  0.2963865873992079
+Exploit Chance (1-epsilon):  0.703613412600792
+Learning Rate (alpha):  0.1
+Episode 12200, Mean Reward: -62.55, Success Rate: 0.50
+Explore Chance (epsilon):  0.29342272152521587
+Exploit Chance (1-epsilon):  0.7065772784747841
+Learning Rate (alpha):  0.1
+Episode 12300, Mean Reward: -58.16, Success Rate: 0.50
+Explore Chance (epsilon):  0.2904884943099637
+Exploit Chance (1-epsilon):  0.7095115056900363
+Learning Rate (alpha):  0.1
+Episode 12400, Mean Reward: -64.59, Success Rate: 0.50
+Explore Chance (epsilon):  0.28758360936686406
+Exploit Chance (1-epsilon):  0.712416390633136
+Learning Rate (alpha):  0.1
+Episode 12500, Mean Reward: -73.32, Success Rate: 0.51
+Explore Chance (epsilon):  0.2847077732731954
+Exploit Chance (1-epsilon):  0.7152922267268046
+Learning Rate (alpha):  0.1
+Episode 12600, Mean Reward: -88.68, Success Rate: 0.44
+Explore Chance (epsilon):  0.28186069554046345
+Exploit Chance (1-epsilon):  0.7181393044595366
+Learning Rate (alpha):  0.1
+Episode 12700, Mean Reward: -72.73, Success Rate: 0.51
+Explore Chance (epsilon):  0.2790420885850588
+Exploit Chance (1-epsilon):  0.7209579114149411
+Learning Rate (alpha):  0.1
+Episode 12800, Mean Reward: -27.90, Success Rate: 0.59
+Explore Chance (epsilon):  0.2762516676992082
+Exploit Chance (1-epsilon):  0.7237483323007918
+Learning Rate (alpha):  0.1
+Episode 12900, Mean Reward: -48.33, Success Rate: 0.56
+Explore Chance (epsilon):  0.27348915102221616
+Exploit Chance (1-epsilon):  0.7265108489777838
+Learning Rate (alpha):  0.1
+Episode 13000, Mean Reward: -86.34, Success Rate: 0.44
+Explore Chance (epsilon):  0.270754259511994
+Exploit Chance (1-epsilon):  0.729245740488006
+Learning Rate (alpha):  0.1
+Episode 13100, Mean Reward: -49.00, Success Rate: 0.54
+Explore Chance (epsilon):  0.26804671691687404
+Exploit Chance (1-epsilon):  0.7319532830831259
+Learning Rate (alpha):  0.1
+Episode 13200, Mean Reward: -64.50, Success Rate: 0.55
+Explore Chance (epsilon):  0.2653662497477053
+Exploit Chance (1-epsilon):  0.7346337502522947
+Learning Rate (alpha):  0.1
+Episode 13300, Mean Reward: -33.95, Success Rate: 0.58
+Explore Chance (epsilon):  0.2627125872502282
+Exploit Chance (1-epsilon):  0.7372874127497717
+Learning Rate (alpha):  0.1
+Episode 13400, Mean Reward: -81.36, Success Rate: 0.48
+Explore Chance (epsilon):  0.2600854613777259
+Exploit Chance (1-epsilon):  0.7399145386222741
+Learning Rate (alpha):  0.1
+Episode 13500, Mean Reward: -38.68, Success Rate: 0.60
+Explore Chance (epsilon):  0.2574846067639487
+Exploit Chance (1-epsilon):  0.7425153932360513
+Learning Rate (alpha):  0.1
+Episode 13600, Mean Reward: -65.21, Success Rate: 0.50
+Explore Chance (epsilon):  0.2549097606963092
+Exploit Chance (1-epsilon):  0.7450902393036908
+Learning Rate (alpha):  0.1
+Episode 13700, Mean Reward: -38.99, Success Rate: 0.63
+Explore Chance (epsilon):  0.2523606630893461
+Exploit Chance (1-epsilon):  0.7476393369106539
+Learning Rate (alpha):  0.1
+Episode 13800, Mean Reward: -49.40, Success Rate: 0.55
+Explore Chance (epsilon):  0.24983705645845267
+Exploit Chance (1-epsilon):  0.7501629435415473
+Learning Rate (alpha):  0.1
+Episode 13900, Mean Reward: -54.88, Success Rate: 0.59
+Explore Chance (epsilon):  0.24733868589386815
+Exploit Chance (1-epsilon):  0.7526613141061318
+Learning Rate (alpha):  0.1
+Episode 14000, Mean Reward: -65.01, Success Rate: 0.51
+Explore Chance (epsilon):  0.24486529903492946
+Exploit Chance (1-epsilon):  0.7551347009650705
+Learning Rate (alpha):  0.1
+Episode 14100, Mean Reward: -63.27, Success Rate: 0.51
+Explore Chance (epsilon):  0.24241664604458016
+Exploit Chance (1-epsilon):  0.7575833539554199
+Learning Rate (alpha):  0.1
+Episode 14200, Mean Reward: -73.31, Success Rate: 0.43
+Explore Chance (epsilon):  0.23999247958413436
+Exploit Chance (1-epsilon):  0.7600075204158656
+Learning Rate (alpha):  0.1
+Episode 14300, Mean Reward: -44.72, Success Rate: 0.56
+Explore Chance (epsilon):  0.23759255478829303
+Exploit Chance (1-epsilon):  0.762407445211707
+Learning Rate (alpha):  0.1
+Episode 14400, Mean Reward: -43.14, Success Rate: 0.54
+Explore Chance (epsilon):  0.2352166292404101
+Exploit Chance (1-epsilon):  0.7647833707595899
+Learning Rate (alpha):  0.1
+Episode 14500, Mean Reward: -49.95, Success Rate: 0.55
+Explore Chance (epsilon):  0.232864462948006
+Exploit Chance (1-epsilon):  0.767135537051994
+Learning Rate (alpha):  0.1
+Episode 14600, Mean Reward: -23.66, Success Rate: 0.64
+Explore Chance (epsilon):  0.23053581831852593
+Exploit Chance (1-epsilon):  0.769464181681474
+Learning Rate (alpha):  0.1
+Episode 14700, Mean Reward: -67.49, Success Rate: 0.49
+Explore Chance (epsilon):  0.22823046013534068
+Exploit Chance (1-epsilon):  0.7717695398646593
+Learning Rate (alpha):  0.1
+Episode 14800, Mean Reward: -60.40, Success Rate: 0.50
+Explore Chance (epsilon):  0.22594815553398728
+Exploit Chance (1-epsilon):  0.7740518444660127
+Learning Rate (alpha):  0.1
+Episode 14900, Mean Reward: -56.59, Success Rate: 0.59
+Explore Chance (epsilon):  0.22368867397864742
+Exploit Chance (1-epsilon):  0.7763113260213526
+Learning Rate (alpha):  0.1
+Episode 15000, Mean Reward: -49.78, Success Rate: 0.58
+Explore Chance (epsilon):  0.22145178723886094
+Exploit Chance (1-epsilon):  0.7785482127611391
+Learning Rate (alpha):  0.1
+Episode 15100, Mean Reward: -43.88, Success Rate: 0.55
+Explore Chance (epsilon):  0.21923726936647234
+Exploit Chance (1-epsilon):  0.7807627306335276
+Learning Rate (alpha):  0.1
+Episode 15200, Mean Reward: -59.00, Success Rate: 0.51
+Explore Chance (epsilon):  0.2170448966728076
+Exploit Chance (1-epsilon):  0.7829551033271924
+Learning Rate (alpha):  0.1
+Episode 15300, Mean Reward: -45.51, Success Rate: 0.59
+Explore Chance (epsilon):  0.21487444770607952
+Exploit Chance (1-epsilon):  0.7851255522939204
+Learning Rate (alpha):  0.1
+Episode 15400, Mean Reward: -68.07, Success Rate: 0.51
+Explore Chance (epsilon):  0.21272570322901874
+Exploit Chance (1-epsilon):  0.7872742967709813
+Learning Rate (alpha):  0.1
+Episode 15500, Mean Reward: -63.93, Success Rate: 0.46
+Explore Chance (epsilon):  0.21059844619672854
+Exploit Chance (1-epsilon):  0.7894015538032715
+Learning Rate (alpha):  0.1
+Episode 15600, Mean Reward: -24.38, Success Rate: 0.61
+Explore Chance (epsilon):  0.20849246173476127
+Exploit Chance (1-epsilon):  0.7915075382652388
+Learning Rate (alpha):  0.1
+Episode 15700, Mean Reward: -61.77, Success Rate: 0.51
+Explore Chance (epsilon):  0.20640753711741366
+Exploit Chance (1-epsilon):  0.7935924628825863
+Learning Rate (alpha):  0.1
+Episode 15800, Mean Reward: -33.37, Success Rate: 0.64
+Explore Chance (epsilon):  0.20434346174623952
+Exploit Chance (1-epsilon):  0.7956565382537605
+Learning Rate (alpha):  0.1
+Episode 15900, Mean Reward: -40.92, Success Rate: 0.54
+Explore Chance (epsilon):  0.20230002712877712
+Exploit Chance (1-epsilon):  0.7976999728712229
+Learning Rate (alpha):  0.1
+Episode 16000, Mean Reward: -36.65, Success Rate: 0.62
+Explore Chance (epsilon):  0.20027702685748935
+Exploit Chance (1-epsilon):  0.7997229731425106
+Learning Rate (alpha):  0.1
+Episode 16100, Mean Reward: -35.62, Success Rate: 0.64
+Explore Chance (epsilon):  0.19827425658891445
+Exploit Chance (1-epsilon):  0.8017257434110856
+Learning Rate (alpha):  0.1
+Episode 16200, Mean Reward: -46.52, Success Rate: 0.57
+Explore Chance (epsilon):  0.1962915140230253
+Exploit Chance (1-epsilon):  0.8037084859769748
+Learning Rate (alpha):  0.1
+Episode 16300, Mean Reward: -44.54, Success Rate: 0.57
+Explore Chance (epsilon):  0.19432859888279505
+Exploit Chance (1-epsilon):  0.8056714011172049
+Learning Rate (alpha):  0.1
+Episode 16400, Mean Reward: -52.08, Success Rate: 0.54
+Explore Chance (epsilon):  0.1923853128939671
+Exploit Chance (1-epsilon):  0.8076146871060329
+Learning Rate (alpha):  0.1
+Episode 16500, Mean Reward: -54.64, Success Rate: 0.56
+Explore Chance (epsilon):  0.19046145976502743
+Exploit Chance (1-epsilon):  0.8095385402349726
+Learning Rate (alpha):  0.1
+Episode 16600, Mean Reward: -33.34, Success Rate: 0.60
+Explore Chance (epsilon):  0.18855684516737714
+Exploit Chance (1-epsilon):  0.8114431548326229
+Learning Rate (alpha):  0.1
+Episode 16700, Mean Reward: -32.92, Success Rate: 0.64
+Explore Chance (epsilon):  0.18667127671570335
+Exploit Chance (1-epsilon):  0.8133287232842966
+Learning Rate (alpha):  0.1
+Episode 16800, Mean Reward: -50.66, Success Rate: 0.56
+Explore Chance (epsilon):  0.18480456394854633
+Exploit Chance (1-epsilon):  0.8151954360514537
+Learning Rate (alpha):  0.1
+Episode 16900, Mean Reward: -41.58, Success Rate: 0.56
+Explore Chance (epsilon):  0.18295651830906087
+Exploit Chance (1-epsilon):  0.8170434816909391
+Learning Rate (alpha):  0.1
+Episode 17000, Mean Reward: -25.91, Success Rate: 0.63
+Explore Chance (epsilon):  0.18112695312597027
+Exploit Chance (1-epsilon):  0.8188730468740297
+Learning Rate (alpha):  0.1
+Episode 17100, Mean Reward: -25.28, Success Rate: 0.62
+Explore Chance (epsilon):  0.17931568359471056
+Exploit Chance (1-epsilon):  0.8206843164052895
+Learning Rate (alpha):  0.1
+Episode 17200, Mean Reward: -48.69, Success Rate: 0.53
+Explore Chance (epsilon):  0.17752252675876345
+Exploit Chance (1-epsilon):  0.8224774732412365
+Learning Rate (alpha):  0.1
+Episode 17300, Mean Reward: -25.70, Success Rate: 0.67
+Explore Chance (epsilon):  0.17574730149117582
+Exploit Chance (1-epsilon):  0.8242526985088242
+Learning Rate (alpha):  0.1
+Episode 17400, Mean Reward: -63.89, Success Rate: 0.51
+Explore Chance (epsilon):  0.17398982847626407
+Exploit Chance (1-epsilon):  0.8260101715237359
+Learning Rate (alpha):  0.1
+Episode 17500, Mean Reward: -46.46, Success Rate: 0.59
+Explore Chance (epsilon):  0.17224993019150142
+Exploit Chance (1-epsilon):  0.8277500698084985
+Learning Rate (alpha):  0.1
+Episode 17600, Mean Reward: -45.26, Success Rate: 0.58
+Explore Chance (epsilon):  0.1705274308895864
+Exploit Chance (1-epsilon):  0.8294725691104136
+Learning Rate (alpha):  0.1
+Episode 17700, Mean Reward: -51.31, Success Rate: 0.63
+Explore Chance (epsilon):  0.16882215658069055
+Exploit Chance (1-epsilon):  0.8311778434193094
+Learning Rate (alpha):  0.1
+Episode 17800, Mean Reward: -51.83, Success Rate: 0.53
+Explore Chance (epsilon):  0.16713393501488363
+Exploit Chance (1-epsilon):  0.8328660649851164
+Learning Rate (alpha):  0.1
+Episode 17900, Mean Reward: -47.07, Success Rate: 0.53
+Explore Chance (epsilon):  0.16546259566473479
+Exploit Chance (1-epsilon):  0.8345374043352652
+Learning Rate (alpha):  0.1
+Episode 18000, Mean Reward: -15.69, Success Rate: 0.69
+Explore Chance (epsilon):  0.16380796970808745
+Exploit Chance (1-epsilon):  0.8361920302919126
+Learning Rate (alpha):  0.1
+Episode 18100, Mean Reward: -26.16, Success Rate: 0.64
+Explore Chance (epsilon):  0.16216989001100657
+Exploit Chance (1-epsilon):  0.8378301099889934
+Learning Rate (alpha):  0.1
+Episode 18200, Mean Reward: -23.63, Success Rate: 0.64
+Explore Chance (epsilon):  0.1605481911108965
+Exploit Chance (1-epsilon):  0.8394518088891035
+Learning Rate (alpha):  0.1
+Episode 18300, Mean Reward: -31.01, Success Rate: 0.65
+Explore Chance (epsilon):  0.15894270919978754
+Exploit Chance (1-epsilon):  0.8410572908002125
+Learning Rate (alpha):  0.1
+Episode 18400, Mean Reward: -50.73, Success Rate: 0.57
+Explore Chance (epsilon):  0.15735328210778965
+Exploit Chance (1-epsilon):  0.8426467178922104
+Learning Rate (alpha):  0.1
+Episode 18500, Mean Reward: -20.22, Success Rate: 0.67
+Explore Chance (epsilon):  0.15577974928671176
+Exploit Chance (1-epsilon):  0.8442202507132882
+Learning Rate (alpha):  0.1
+Episode 18600, Mean Reward: -21.70, Success Rate: 0.63
+Explore Chance (epsilon):  0.15422195179384465
+Exploit Chance (1-epsilon):  0.8457780482061553
+Learning Rate (alpha):  0.1
+Episode 18700, Mean Reward: -32.79, Success Rate: 0.62
+Explore Chance (epsilon):  0.1526797322759062
+Exploit Chance (1-epsilon):  0.8473202677240939
+Learning Rate (alpha):  0.1
+Episode 18800, Mean Reward: -37.25, Success Rate: 0.57
+Explore Chance (epsilon):  0.15115293495314713
+Exploit Chance (1-epsilon):  0.8488470650468529
+Learning Rate (alpha):  0.1
+Episode 18900, Mean Reward: -26.41, Success Rate: 0.61
+Explore Chance (epsilon):  0.14964140560361566
+Exploit Chance (1-epsilon):  0.8503585943963843
+Learning Rate (alpha):  0.1
+Episode 19000, Mean Reward: -43.18, Success Rate: 0.59
+Explore Chance (epsilon):  0.1481449915475795
+Exploit Chance (1-epsilon):  0.8518550084524205
+Learning Rate (alpha):  0.1
+Episode 19100, Mean Reward: -28.21, Success Rate: 0.61
+Explore Chance (epsilon):  0.1466635416321037
+Exploit Chance (1-epsilon):  0.8533364583678963
+Learning Rate (alpha):  0.1
+Episode 19200, Mean Reward: -19.84, Success Rate: 0.68
+Explore Chance (epsilon):  0.14519690621578268
+Exploit Chance (1-epsilon):  0.8548030937842173
+Learning Rate (alpha):  0.1
+Episode 19300, Mean Reward: -33.14, Success Rate: 0.61
+Explore Chance (epsilon):  0.14374493715362485
+Exploit Chance (1-epsilon):  0.8562550628463752
+Learning Rate (alpha):  0.1
+Episode 19400, Mean Reward: -11.98, Success Rate: 0.67
+Explore Chance (epsilon):  0.1423074877820886
+Exploit Chance (1-epsilon):  0.8576925122179114
+Learning Rate (alpha):  0.1
+Episode 19500, Mean Reward: -32.30, Success Rate: 0.60
+Explore Chance (epsilon):  0.1408844129042677
+Exploit Chance (1-epsilon):  0.8591155870957323
+Learning Rate (alpha):  0.1
+Episode 19600, Mean Reward: -18.95, Success Rate: 0.67
+Explore Chance (epsilon):  0.13947556877522502
+Exploit Chance (1-epsilon):  0.860524431224775
+Learning Rate (alpha):  0.1
+Episode 19700, Mean Reward: -37.88, Success Rate: 0.61
+Explore Chance (epsilon):  0.13808081308747278
+Exploit Chance (1-epsilon):  0.8619191869125272
+Learning Rate (alpha):  0.1
+Episode 19800, Mean Reward: -30.16, Success Rate: 0.66
+Explore Chance (epsilon):  0.13670000495659804
+Exploit Chance (1-epsilon):  0.8632999950434019
+Learning Rate (alpha):  0.1
+Episode 19900, Mean Reward: -16.23, Success Rate: 0.67
+Explore Chance (epsilon):  0.13533300490703207
+Exploit Chance (1-epsilon):  0.864666995092968
+Learning Rate (alpha):  0.1
+Episode 20000, Mean Reward: -43.31, Success Rate: 0.55
+Explore Chance (epsilon):  0.13397967485796175
+Exploit Chance (1-epsilon):  0.8660203251420382
+Learning Rate (alpha):  0.1
+Episode 20100, Mean Reward: -41.10, Success Rate: 0.61
+Explore Chance (epsilon):  0.13263987810938213
+Exploit Chance (1-epsilon):  0.8673601218906178
+Learning Rate (alpha):  0.1
+Episode 20200, Mean Reward: -19.57, Success Rate: 0.64
+Explore Chance (epsilon):  0.1313134793282883
+Exploit Chance (1-epsilon):  0.8686865206717117
+Learning Rate (alpha):  0.1
+Episode 20300, Mean Reward: -21.17, Success Rate: 0.60
+Explore Chance (epsilon):  0.13000034453500542
+Exploit Chance (1-epsilon):  0.8699996554649946
+Learning Rate (alpha):  0.1
+Episode 20400, Mean Reward: -29.97, Success Rate: 0.62
+Explore Chance (epsilon):  0.12870034108965536
+Exploit Chance (1-epsilon):  0.8712996589103447
+Learning Rate (alpha):  0.1
+Episode 20500, Mean Reward: -50.14, Success Rate: 0.53
+Explore Chance (epsilon):  0.12741333767875881
+Exploit Chance (1-epsilon):  0.8725866623212412
+Learning Rate (alpha):  0.1
+Episode 20600, Mean Reward: -18.84, Success Rate: 0.68
+Explore Chance (epsilon):  0.12613920430197123
+Exploit Chance (1-epsilon):  0.8738607956980288
+Learning Rate (alpha):  0.1
+Episode 20700, Mean Reward: -42.88, Success Rate: 0.54
+Explore Chance (epsilon):  0.12487781225895152
+Exploit Chance (1-epsilon):  0.8751221877410484
+Learning Rate (alpha):  0.1
+Episode 20800, Mean Reward: -18.16, Success Rate: 0.68
+Explore Chance (epsilon):  0.123629034136362
+Exploit Chance (1-epsilon):  0.876370965863638
+Learning Rate (alpha):  0.1
+Episode 20900, Mean Reward: -14.25, Success Rate: 0.66
+Explore Chance (epsilon):  0.12239274379499838
+Exploit Chance (1-epsilon):  0.8776072562050016
+Learning Rate (alpha):  0.1
+Episode 21000, Mean Reward: -12.07, Success Rate: 0.68
+Explore Chance (epsilon):  0.1211688163570484
+Exploit Chance (1-epsilon):  0.8788311836429517
+Learning Rate (alpha):  0.1
+Episode 21100, Mean Reward: -16.40, Success Rate: 0.66
+Explore Chance (epsilon):  0.11995712819347792
+Exploit Chance (1-epsilon):  0.8800428718065221
+Learning Rate (alpha):  0.1
+Episode 21200, Mean Reward: -43.94, Success Rate: 0.60
+Explore Chance (epsilon):  0.11875755691154315
+Exploit Chance (1-epsilon):  0.8812424430884569
+Learning Rate (alpha):  0.1
+Episode 21300, Mean Reward: -11.28, Success Rate: 0.68
+Explore Chance (epsilon):  0.11756998134242772
+Exploit Chance (1-epsilon):  0.8824300186575723
+Learning Rate (alpha):  0.1
+Episode 21400, Mean Reward: -27.08, Success Rate: 0.64
+Explore Chance (epsilon):  0.11639428152900344
+Exploit Chance (1-epsilon):  0.8836057184709966
+Learning Rate (alpha):  0.1
+Episode 21500, Mean Reward: 0.04, Success Rate: 0.70
+Explore Chance (epsilon):  0.11523033871371341
+Exploit Chance (1-epsilon):  0.8847696612862865
+Learning Rate (alpha):  0.1
+Episode 21600, Mean Reward: -1.27, Success Rate: 0.76
+Explore Chance (epsilon):  0.11407803532657627
+Exploit Chance (1-epsilon):  0.8859219646734238
+Learning Rate (alpha):  0.1
+Episode 21700, Mean Reward: -13.76, Success Rate: 0.65
+Explore Chance (epsilon):  0.11293725497331052
+Exploit Chance (1-epsilon):  0.8870627450266895
+Learning Rate (alpha):  0.1
+Episode 21800, Mean Reward: -21.85, Success Rate: 0.64
+Explore Chance (epsilon):  0.1118078824235774
+Exploit Chance (1-epsilon):  0.8881921175764226
+Learning Rate (alpha):  0.1
+Episode 21900, Mean Reward: -42.70, Success Rate: 0.57
+Explore Chance (epsilon):  0.11068980359934164
+Exploit Chance (1-epsilon):  0.8893101964006583
+Learning Rate (alpha):  0.1
+Episode 22000, Mean Reward: -33.41, Success Rate: 0.62
+Explore Chance (epsilon):  0.10958290556334822
+Exploit Chance (1-epsilon):  0.8904170944366517
+Learning Rate (alpha):  0.1
+Episode 22100, Mean Reward: -34.55, Success Rate: 0.62
+Explore Chance (epsilon):  0.10848707650771475
+Exploit Chance (1-epsilon):  0.8915129234922853
+Learning Rate (alpha):  0.1
+Episode 22200, Mean Reward: -46.56, Success Rate: 0.61
+Explore Chance (epsilon):  0.1074022057426376
+Exploit Chance (1-epsilon):  0.8925977942573624
+Learning Rate (alpha):  0.1
+Episode 22300, Mean Reward: -23.78, Success Rate: 0.64
+Explore Chance (epsilon):  0.10632818368521123
+Exploit Chance (1-epsilon):  0.8936718163147888
+Learning Rate (alpha):  0.1
+Episode 22400, Mean Reward: -31.46, Success Rate: 0.61
+Explore Chance (epsilon):  0.10526490184835911
+Exploit Chance (1-epsilon):  0.8947350981516409
+Learning Rate (alpha):  0.1
+Episode 22500, Mean Reward: -41.10, Success Rate: 0.63
+Explore Chance (epsilon):  0.10421225282987552
+Exploit Chance (1-epsilon):  0.8957877471701244
+Learning Rate (alpha):  0.1
+Episode 22600, Mean Reward: -36.89, Success Rate: 0.58
+Explore Chance (epsilon):  0.10317013030157676
+Exploit Chance (1-epsilon):  0.8968298696984233
+Learning Rate (alpha):  0.1
+Episode 22700, Mean Reward: -34.81, Success Rate: 0.61
+Explore Chance (epsilon):  0.10213842899856099
+Exploit Chance (1-epsilon):  0.897861571001439
+Learning Rate (alpha):  0.1
+Episode 22800, Mean Reward: -2.69, Success Rate: 0.72
+Explore Chance (epsilon):  0.10111704470857538
+Exploit Chance (1-epsilon):  0.8988829552914246
+Learning Rate (alpha):  0.1
+Episode 22900, Mean Reward: -35.90, Success Rate: 0.63
+Explore Chance (epsilon):  0.10010587426148963
+Exploit Chance (1-epsilon):  0.8998941257385104
+Learning Rate (alpha):  0.1
+Episode 23000, Mean Reward: -19.06, Success Rate: 0.68
+Explore Chance (epsilon):  0.09910481551887473
+Exploit Chance (1-epsilon):  0.9008951844811253
+Learning Rate (alpha):  0.1
+Episode 23100, Mean Reward: -30.03, Success Rate: 0.65
+Explore Chance (epsilon):  0.09811376736368599
+Exploit Chance (1-epsilon):  0.901886232636314
+Learning Rate (alpha):  0.1
+Episode 23200, Mean Reward: -17.94, Success Rate: 0.68
+Explore Chance (epsilon):  0.09713262969004913
+Exploit Chance (1-epsilon):  0.9028673703099509
+Learning Rate (alpha):  0.1
+Episode 23300, Mean Reward: -7.62, Success Rate: 0.72
+Explore Chance (epsilon):  0.09616130339314863
+Exploit Chance (1-epsilon):  0.9038386966068513
+Learning Rate (alpha):  0.1
+Episode 23400, Mean Reward: -4.47, Success Rate: 0.70
+Explore Chance (epsilon):  0.09519969035921715
+Exploit Chance (1-epsilon):  0.9048003096407828
+Learning Rate (alpha):  0.1
+Episode 23500, Mean Reward: -7.39, Success Rate: 0.67
+Explore Chance (epsilon):  0.09424769345562498
+Exploit Chance (1-epsilon):  0.905752306544375
+Learning Rate (alpha):  0.1
+Episode 23600, Mean Reward: -22.04, Success Rate: 0.60
+Explore Chance (epsilon):  0.09330521652106873
+Exploit Chance (1-epsilon):  0.9066947834789313
+Learning Rate (alpha):  0.1
+Episode 23700, Mean Reward: -15.51, Success Rate: 0.69
+Explore Chance (epsilon):  0.09237216435585804
+Exploit Chance (1-epsilon):  0.907627835644142
+Learning Rate (alpha):  0.1
+Episode 23800, Mean Reward: -30.03, Success Rate: 0.61
+Explore Chance (epsilon):  0.09144844271229946
+Exploit Chance (1-epsilon):  0.9085515572877005
+Learning Rate (alpha):  0.1
+Episode 23900, Mean Reward: -26.02, Success Rate: 0.65
+Explore Chance (epsilon):  0.09053395828517646
+Exploit Chance (1-epsilon):  0.9094660417148235
+Learning Rate (alpha):  0.1
+Episode 24000, Mean Reward: 1.59, Success Rate: 0.74
+Explore Chance (epsilon):  0.08962861870232469
+Exploit Chance (1-epsilon):  0.9103713812976753
+Learning Rate (alpha):  0.1
+Episode 24100, Mean Reward: -22.51, Success Rate: 0.64
+Explore Chance (epsilon):  0.08873233251530144
+Exploit Chance (1-epsilon):  0.9112676674846986
+Learning Rate (alpha):  0.1
+Episode 24200, Mean Reward: -24.64, Success Rate: 0.67
+Explore Chance (epsilon):  0.08784500919014843
+Exploit Chance (1-epsilon):  0.9121549908098516
+Learning Rate (alpha):  0.1
+Episode 24300, Mean Reward: -28.50, Success Rate: 0.68
+Explore Chance (epsilon):  0.08696655909824694
+Exploit Chance (1-epsilon):  0.9130334409017531
+Learning Rate (alpha):  0.1
+Episode 24400, Mean Reward: -7.24, Success Rate: 0.72
+Explore Chance (epsilon):  0.08609689350726446
+Exploit Chance (1-epsilon):  0.9139031064927355
+Learning Rate (alpha):  0.1
+Episode 24500, Mean Reward: -6.14, Success Rate: 0.71
+Explore Chance (epsilon):  0.08523592457219181
+Exploit Chance (1-epsilon):  0.9147640754278081
+Learning Rate (alpha):  0.1
+Episode 24600, Mean Reward: -25.32, Success Rate: 0.65
+Explore Chance (epsilon):  0.0843835653264699
+Exploit Chance (1-epsilon):  0.91561643467353
+Learning Rate (alpha):  0.1
+Episode 24700, Mean Reward: 1.26, Success Rate: 0.71
+Explore Chance (epsilon):  0.0835397296732052
+Exploit Chance (1-epsilon):  0.9164602703267948
+Learning Rate (alpha):  0.1
+Episode 24800, Mean Reward: -3.45, Success Rate: 0.74
+Explore Chance (epsilon):  0.08270433237647315
+Exploit Chance (1-epsilon):  0.9172956676235269
+Learning Rate (alpha):  0.1
+Episode 24900, Mean Reward: -1.41, Success Rate: 0.72
+Explore Chance (epsilon):  0.08187728905270841
+Exploit Chance (1-epsilon):  0.9181227109472916
+Learning Rate (alpha):  0.1
+Episode 25000, Mean Reward: -21.52, Success Rate: 0.68
+Explore Chance (epsilon):  0.08105851616218133
+Exploit Chance (1-epsilon):  0.9189414838378187
+Learning Rate (alpha):  0.1
+Episode 25100, Mean Reward: -2.32, Success Rate: 0.74
+Explore Chance (epsilon):  0.08024793100055952
+Exploit Chance (1-epsilon):  0.9197520689994405
+Learning Rate (alpha):  0.1
+Episode 25200, Mean Reward: -15.41, Success Rate: 0.68
+Explore Chance (epsilon):  0.07944545169055392
+Exploit Chance (1-epsilon):  0.920554548309446
+Learning Rate (alpha):  0.1
+Episode 25300, Mean Reward: -6.95, Success Rate: 0.74
+Explore Chance (epsilon):  0.07865099717364837
+Exploit Chance (1-epsilon):  0.9213490028263516
+Learning Rate (alpha):  0.1
+Episode 25400, Mean Reward: -4.08, Success Rate: 0.70
+Explore Chance (epsilon):  0.07786448720191189
+Exploit Chance (1-epsilon):  0.9221355127980881
+Learning Rate (alpha):  0.1
+Episode 25500, Mean Reward: -12.79, Success Rate: 0.64
+Explore Chance (epsilon):  0.07708584232989277
+Exploit Chance (1-epsilon):  0.9229141576701072
+Learning Rate (alpha):  0.1
+Episode 25600, Mean Reward: -7.66, Success Rate: 0.67
+Explore Chance (epsilon):  0.07631498390659384
+Exploit Chance (1-epsilon):  0.9236850160934061
+Learning Rate (alpha):  0.1
+Episode 25700, Mean Reward: -12.36, Success Rate: 0.71
+Explore Chance (epsilon):  0.07555183406752791
+Exploit Chance (1-epsilon):  0.9244481659324721
+Learning Rate (alpha):  0.1
+Episode 25800, Mean Reward: -5.66, Success Rate: 0.75
+Explore Chance (epsilon):  0.07479631572685264
+Exploit Chance (1-epsilon):  0.9252036842731474
+Learning Rate (alpha):  0.1
+Episode 25900, Mean Reward: -2.19, Success Rate: 0.71
+Explore Chance (epsilon):  0.07404835256958411
+Exploit Chance (1-epsilon):  0.9259516474304159
+Learning Rate (alpha):  0.1
+Episode 26000, Mean Reward: -14.51, Success Rate: 0.66
+Explore Chance (epsilon):  0.07330786904388827
+Exploit Chance (1-epsilon):  0.9266921309561117
+Learning Rate (alpha):  0.1
+Episode 26100, Mean Reward: -23.60, Success Rate: 0.67
+Explore Chance (epsilon):  0.07257479035344938
+Exploit Chance (1-epsilon):  0.9274252096465506
+Learning Rate (alpha):  0.1
+Episode 26200, Mean Reward: -22.95, Success Rate: 0.65
+Explore Chance (epsilon):  0.07184904244991488
+Exploit Chance (1-epsilon):  0.9281509575500851
+Learning Rate (alpha):  0.1
+Episode 26300, Mean Reward: -15.54, Success Rate: 0.68
+Explore Chance (epsilon):  0.07113055202541574
+Exploit Chance (1-epsilon):  0.9288694479745843
+Learning Rate (alpha):  0.1
+Episode 26400, Mean Reward: -7.59, Success Rate: 0.71
+Explore Chance (epsilon):  0.07041924650516158
+Exploit Chance (1-epsilon):  0.9295807534948384
+Learning Rate (alpha):  0.1
+Episode 26500, Mean Reward: 9.11, Success Rate: 0.77
+Explore Chance (epsilon):  0.06971505404010997
+Exploit Chance (1-epsilon):  0.9302849459598901
+Learning Rate (alpha):  0.1
+Episode 26600, Mean Reward: -6.27, Success Rate: 0.70
+Explore Chance (epsilon):  0.06901790349970886
+Exploit Chance (1-epsilon):  0.9309820965002912
+Learning Rate (alpha):  0.1
+Episode 26700, Mean Reward: -4.75, Success Rate: 0.70
+Explore Chance (epsilon):  0.06832772446471178
+Exploit Chance (1-epsilon):  0.9316722755352882
+Learning Rate (alpha):  0.1
+Episode 26800, Mean Reward: -17.44, Success Rate: 0.70
+Explore Chance (epsilon):  0.06764444722006466
+Exploit Chance (1-epsilon):  0.9323555527799353
+Learning Rate (alpha):  0.1
+Episode 26900, Mean Reward: -29.30, Success Rate: 0.66
+Explore Chance (epsilon):  0.066968002747864
+Exploit Chance (1-epsilon):  0.933031997252136
+Learning Rate (alpha):  0.1
+Episode 27000, Mean Reward: -14.70, Success Rate: 0.68
+Explore Chance (epsilon):  0.06629832272038537
+Exploit Chance (1-epsilon):  0.9337016772796146
+Learning Rate (alpha):  0.1
+Episode 27100, Mean Reward: 10.94, Success Rate: 0.75
+Explore Chance (epsilon):  0.06563533949318151
+Exploit Chance (1-epsilon):  0.9343646605068185
+Learning Rate (alpha):  0.1
+Episode 27200, Mean Reward: 21.91, Success Rate: 0.83
+Explore Chance (epsilon):  0.06497898609824969
+Exploit Chance (1-epsilon):  0.9350210139017503
+Learning Rate (alpha):  0.1
+Episode 27300, Mean Reward: -0.96, Success Rate: 0.74
+Explore Chance (epsilon):  0.0643291962372672
+Exploit Chance (1-epsilon):  0.9356708037627328
+Learning Rate (alpha):  0.1
+Episode 27400, Mean Reward: -26.11, Success Rate: 0.63
+Explore Chance (epsilon):  0.06368590427489453
+Exploit Chance (1-epsilon):  0.9363140957251055
+Learning Rate (alpha):  0.1
+Episode 27500, Mean Reward: -3.30, Success Rate: 0.74
+Explore Chance (epsilon):  0.06304904523214558
+Exploit Chance (1-epsilon):  0.9369509547678544
+Learning Rate (alpha):  0.1
+Episode 27600, Mean Reward: -33.82, Success Rate: 0.64
+Explore Chance (epsilon):  0.06241855477982412
+Exploit Chance (1-epsilon):  0.9375814452201758
+Learning Rate (alpha):  0.1
+Episode 27700, Mean Reward: 7.39, Success Rate: 0.80
+Explore Chance (epsilon):  0.06179436923202588
+Exploit Chance (1-epsilon):  0.9382056307679741
+Learning Rate (alpha):  0.1
+Episode 27800, Mean Reward: -21.25, Success Rate: 0.66
+Explore Chance (epsilon):  0.06117642553970562
+Exploit Chance (1-epsilon):  0.9388235744602944
+Learning Rate (alpha):  0.1
+Episode 27900, Mean Reward: 5.41, Success Rate: 0.75
+Explore Chance (epsilon):  0.06056466128430856
+Exploit Chance (1-epsilon):  0.9394353387156914
+Learning Rate (alpha):  0.1
+Episode 28000, Mean Reward: -21.01, Success Rate: 0.65
+Explore Chance (epsilon):  0.05995901467146548
+Exploit Chance (1-epsilon):  0.9400409853285345
+Learning Rate (alpha):  0.1
+Episode 28100, Mean Reward: -12.80, Success Rate: 0.70
+Explore Chance (epsilon):  0.05935942452475082
+Exploit Chance (1-epsilon):  0.9406405754752492
+Learning Rate (alpha):  0.1
+Episode 28200, Mean Reward: -15.94, Success Rate: 0.69
+Explore Chance (epsilon):  0.058765830279503314
+Exploit Chance (1-epsilon):  0.9412341697204967
+Learning Rate (alpha):  0.1
+Episode 28300, Mean Reward: -28.60, Success Rate: 0.67
+Explore Chance (epsilon):  0.05817817197670828
+Exploit Chance (1-epsilon):  0.9418218280232917
+Learning Rate (alpha):  0.1
+Episode 28400, Mean Reward: -15.73, Success Rate: 0.66
+Explore Chance (epsilon):  0.057596390256941195
+Exploit Chance (1-epsilon):  0.9424036097430588
+Learning Rate (alpha):  0.1
+Episode 28500, Mean Reward: -10.97, Success Rate: 0.69
+Explore Chance (epsilon):  0.05702042635437178
+Exploit Chance (1-epsilon):  0.9429795736456282
+Learning Rate (alpha):  0.1
+Episode 28600, Mean Reward: -23.85, Success Rate: 0.64
+Explore Chance (epsilon):  0.05645022209082806
+Exploit Chance (1-epsilon):  0.9435497779091719
+Learning Rate (alpha):  0.1
+Episode 28700, Mean Reward: 7.58, Success Rate: 0.76
+Explore Chance (epsilon):  0.05588571986991978
+Exploit Chance (1-epsilon):  0.9441142801300803
+Learning Rate (alpha):  0.1
+Episode 28800, Mean Reward: 4.20, Success Rate: 0.74
+Explore Chance (epsilon):  0.055326862671220584
+Exploit Chance (1-epsilon):  0.9446731373287794
+Learning Rate (alpha):  0.1
+Episode 28900, Mean Reward: -16.68, Success Rate: 0.67
+Explore Chance (epsilon):  0.05477359404450838
+Exploit Chance (1-epsilon):  0.9452264059554916
+Learning Rate (alpha):  0.1
+Episode 29000, Mean Reward: -16.81, Success Rate: 0.70
+Explore Chance (epsilon):  0.054225858104063294
+Exploit Chance (1-epsilon):  0.9457741418959367
+Learning Rate (alpha):  0.1
+Episode 29100, Mean Reward: -23.42, Success Rate: 0.68
+Explore Chance (epsilon):  0.05368359952302266
+Exploit Chance (1-epsilon):  0.9463164004769773
+Learning Rate (alpha):  0.1
+Episode 29200, Mean Reward: -21.48, Success Rate: 0.68
+Explore Chance (epsilon):  0.053146763527792434
+Exploit Chance (1-epsilon):  0.9468532364722075
+Learning Rate (alpha):  0.1
+Episode 29300, Mean Reward: 9.64, Success Rate: 0.83
+Explore Chance (epsilon):  0.052615295892514506
+Exploit Chance (1-epsilon):  0.9473847041074855
+Learning Rate (alpha):  0.1
+Episode 29400, Mean Reward: -2.46, Success Rate: 0.73
+Explore Chance (epsilon):  0.052089142933589364
+Exploit Chance (1-epsilon):  0.9479108570664107
+Learning Rate (alpha):  0.1
+Episode 29500, Mean Reward: 3.13, Success Rate: 0.75
+Explore Chance (epsilon):  0.05156825150425347
+Exploit Chance (1-epsilon):  0.9484317484957465
+Learning Rate (alpha):  0.1
+Episode 29600, Mean Reward: -29.78, Success Rate: 0.66
+Explore Chance (epsilon):  0.051052568989210935
+Exploit Chance (1-epsilon):  0.948947431010789
+Learning Rate (alpha):  0.1
+Episode 29700, Mean Reward: 7.36, Success Rate: 0.78
+Explore Chance (epsilon):  0.05054204329931883
+Exploit Chance (1-epsilon):  0.9494579567006811
+Learning Rate (alpha):  0.1
+Episode 29800, Mean Reward: -12.26, Success Rate: 0.70
+Explore Chance (epsilon):  0.05003662286632564
+Exploit Chance (1-epsilon):  0.9499633771336744
+Learning Rate (alpha):  0.1
+Episode 29900, Mean Reward: 8.57, Success Rate: 0.76
+Explore Chance (epsilon):  0.04953625663766238
+Exploit Chance (1-epsilon):  0.9504637433623376
+Learning Rate (alpha):  0.1
+Episode 30000, Mean Reward: -2.82, Success Rate: 0.68
+Explore Chance (epsilon):  0.04904089407128576
+Exploit Chance (1-epsilon):  0.9509591059287142
+Learning Rate (alpha):  0.1
+Episode 30100, Mean Reward: 3.60, Success Rate: 0.76
+Explore Chance (epsilon):  0.0485504851305729
+Exploit Chance (1-epsilon):  0.9514495148694271
+Learning Rate (alpha):  0.1
+Episode 30200, Mean Reward: -28.31, Success Rate: 0.68
+Explore Chance (epsilon):  0.048064980279267165
+Exploit Chance (1-epsilon):  0.9519350197207328
+Learning Rate (alpha):  0.1
+Episode 30300, Mean Reward: -7.22, Success Rate: 0.71
+Explore Chance (epsilon):  0.04758433047647449
+Exploit Chance (1-epsilon):  0.9524156695235255
+Learning Rate (alpha):  0.1
+Episode 30400, Mean Reward: -28.16, Success Rate: 0.62
+Explore Chance (epsilon):  0.04710848717170975
+Exploit Chance (1-epsilon):  0.9528915128282902
+Learning Rate (alpha):  0.1
+Episode 30500, Mean Reward: -33.54, Success Rate: 0.61
+Explore Chance (epsilon):  0.04663740229999265
+Exploit Chance (1-epsilon):  0.9533625977000073
+Learning Rate (alpha):  0.1
+Episode 30600, Mean Reward: -20.46, Success Rate: 0.66
+Explore Chance (epsilon):  0.04617102827699272
+Exploit Chance (1-epsilon):  0.9538289717230073
+Learning Rate (alpha):  0.1
+Episode 30700, Mean Reward: 2.86, Success Rate: 0.72
+Explore Chance (epsilon):  0.045709317994222794
+Exploit Chance (1-epsilon):  0.9542906820057772
+Learning Rate (alpha):  0.1
+Episode 30800, Mean Reward: 7.69, Success Rate: 0.79
+Explore Chance (epsilon):  0.04525222481428057
+Exploit Chance (1-epsilon):  0.9547477751857194
+Learning Rate (alpha):  0.1
+Episode 30900, Mean Reward: -1.52, Success Rate: 0.74
+Explore Chance (epsilon):  0.04479970256613776
+Exploit Chance (1-epsilon):  0.9552002974338623
+Learning Rate (alpha):  0.1
+Episode 31000, Mean Reward: 22.50, Success Rate: 0.81
+Explore Chance (epsilon):  0.04435170554047638
+Exploit Chance (1-epsilon):  0.9556482944595236
+Learning Rate (alpha):  0.1
+Episode 31100, Mean Reward: -9.39, Success Rate: 0.71
+Explore Chance (epsilon):  0.043908188485071616
+Exploit Chance (1-epsilon):  0.9560918115149284
+Learning Rate (alpha):  0.1
+Episode 31200, Mean Reward: -8.66, Success Rate: 0.70
+Explore Chance (epsilon):  0.0434691066002209
+Exploit Chance (1-epsilon):  0.9565308933997791
+Learning Rate (alpha):  0.1
+Episode 31300, Mean Reward: -4.49, Success Rate: 0.73
+Explore Chance (epsilon):  0.04303441553421869
+Exploit Chance (1-epsilon):  0.9569655844657813
+Learning Rate (alpha):  0.1
+Episode 31400, Mean Reward: -3.06, Success Rate: 0.73
+Explore Chance (epsilon):  0.0426040713788765
+Exploit Chance (1-epsilon):  0.9573959286211235
+Learning Rate (alpha):  0.1
+Episode 31500, Mean Reward: -5.01, Success Rate: 0.69
+Explore Chance (epsilon):  0.04217803066508773
+Exploit Chance (1-epsilon):  0.9578219693349123
+Learning Rate (alpha):  0.1
+Episode 31600, Mean Reward: -19.96, Success Rate: 0.68
+Explore Chance (epsilon):  0.04175625035843686
+Exploit Chance (1-epsilon):  0.9582437496415631
+Learning Rate (alpha):  0.1
+Episode 31700, Mean Reward: 1.69, Success Rate: 0.73
+Explore Chance (epsilon):  0.041338687854852486
+Exploit Chance (1-epsilon):  0.9586613121451475
+Learning Rate (alpha):  0.1
+Episode 31800, Mean Reward: -15.77, Success Rate: 0.68
+Explore Chance (epsilon):  0.04092530097630396
+Exploit Chance (1-epsilon):  0.959074699023696
+Learning Rate (alpha):  0.1
+Episode 31900, Mean Reward: 4.36, Success Rate: 0.76
+Explore Chance (epsilon):  0.040516047966540916
+Exploit Chance (1-epsilon):  0.959483952033459
+Learning Rate (alpha):  0.1
+Episode 32000, Mean Reward: -11.78, Success Rate: 0.68
+Explore Chance (epsilon):  0.04011088748687551
+Exploit Chance (1-epsilon):  0.9598891125131245
+Learning Rate (alpha):  0.1
+Episode 32100, Mean Reward: 2.96, Success Rate: 0.80
+Explore Chance (epsilon):  0.03970977861200675
+Exploit Chance (1-epsilon):  0.9602902213879932
+Learning Rate (alpha):  0.1
+Episode 32200, Mean Reward: -3.99, Success Rate: 0.72
+Explore Chance (epsilon):  0.03931268082588668
+Exploit Chance (1-epsilon):  0.9606873191741133
+Learning Rate (alpha):  0.1
+Episode 32300, Mean Reward: 13.82, Success Rate: 0.81
+Explore Chance (epsilon):  0.03891955401762781
+Exploit Chance (1-epsilon):  0.9610804459823722
+Learning Rate (alpha):  0.1
+Episode 32400, Mean Reward: -2.80, Success Rate: 0.77
+Explore Chance (epsilon):  0.03853035847745153
+Exploit Chance (1-epsilon):  0.9614696415225484
+Learning Rate (alpha):  0.1
+Episode 32500, Mean Reward: -38.30, Success Rate: 0.61
+Explore Chance (epsilon):  0.03814505489267701
+Exploit Chance (1-epsilon):  0.961854945107323
+Learning Rate (alpha):  0.1
+Episode 32600, Mean Reward: 9.95, Success Rate: 0.79
+Explore Chance (epsilon):  0.03776360434375024
+Exploit Chance (1-epsilon):  0.9622363956562497
+Learning Rate (alpha):  0.1
+Episode 32700, Mean Reward: -29.31, Success Rate: 0.67
+Explore Chance (epsilon):  0.03738596830031274
+Exploit Chance (1-epsilon):  0.9626140316996873
+Learning Rate (alpha):  0.1
+Episode 32800, Mean Reward: -24.46, Success Rate: 0.69
+Explore Chance (epsilon):  0.03701210861730961
+Exploit Chance (1-epsilon):  0.9629878913826904
+Learning Rate (alpha):  0.1
+Episode 32900, Mean Reward: 11.84, Success Rate: 0.78
+Explore Chance (epsilon):  0.03664198753113651
+Exploit Chance (1-epsilon):  0.9633580124688634
+Learning Rate (alpha):  0.1
+Episode 33000, Mean Reward: -11.16, Success Rate: 0.71
+Explore Chance (epsilon):  0.036275567655825146
+Exploit Chance (1-epsilon):  0.9637244323441748
+Learning Rate (alpha):  0.1
+Episode 33100, Mean Reward: 26.46, Success Rate: 0.84
+Explore Chance (epsilon):  0.03591281197926689
+Exploit Chance (1-epsilon):  0.9640871880207331
+Learning Rate (alpha):  0.1
+Episode 33200, Mean Reward: 10.00, Success Rate: 0.72
+Explore Chance (epsilon):  0.035553683859474224
+Exploit Chance (1-epsilon):  0.9644463161405258
+Learning Rate (alpha):  0.1
+Episode 33300, Mean Reward: 18.16, Success Rate: 0.81
+Explore Chance (epsilon):  0.03519814702087948
+Exploit Chance (1-epsilon):  0.9648018529791205
+Learning Rate (alpha):  0.1
+Episode 33400, Mean Reward: -4.48, Success Rate: 0.73
+Explore Chance (epsilon):  0.03484616555067068
+Exploit Chance (1-epsilon):  0.9651538344493293
+Learning Rate (alpha):  0.1
+Episode 33500, Mean Reward: -4.24, Success Rate: 0.74
+Explore Chance (epsilon):  0.034497703895163975
+Exploit Chance (1-epsilon):  0.9655022961048361
+Learning Rate (alpha):  0.1
+Episode 33600, Mean Reward: 19.08, Success Rate: 0.77
+Explore Chance (epsilon):  0.03415272685621234
+Exploit Chance (1-epsilon):  0.9658472731437877
+Learning Rate (alpha):  0.1
+Episode 33700, Mean Reward: -5.91, Success Rate: 0.76
+Explore Chance (epsilon):  0.03381119958765021
+Exploit Chance (1-epsilon):  0.9661888004123498
+Learning Rate (alpha):  0.1
+Episode 33800, Mean Reward: 4.56, Success Rate: 0.80
+Explore Chance (epsilon):  0.03347308759177371
+Exploit Chance (1-epsilon):  0.9665269124082263
+Learning Rate (alpha):  0.1
+Episode 33900, Mean Reward: 3.02, Success Rate: 0.77
+Explore Chance (epsilon):  0.03313835671585597
+Exploit Chance (1-epsilon):  0.966861643284144
+Learning Rate (alpha):  0.1
+Episode 34000, Mean Reward: 7.99, Success Rate: 0.74
+Explore Chance (epsilon):  0.03280697314869741
+Exploit Chance (1-epsilon):  0.9671930268513026
+Learning Rate (alpha):  0.1
+Episode 34100, Mean Reward: -5.47, Success Rate: 0.77
+Explore Chance (epsilon):  0.032478903417210436
+Exploit Chance (1-epsilon):  0.9675210965827896
+Learning Rate (alpha):  0.1
+Episode 34200, Mean Reward: -4.95, Success Rate: 0.75
+Explore Chance (epsilon):  0.032154114383038335
+Exploit Chance (1-epsilon):  0.9678458856169616
+Learning Rate (alpha):  0.1
+Episode 34300, Mean Reward: -19.80, Success Rate: 0.68
+Explore Chance (epsilon):  0.03183257323920795
+Exploit Chance (1-epsilon):  0.968167426760792
+Learning Rate (alpha):  0.1
+Episode 34400, Mean Reward: -8.85, Success Rate: 0.69
+Explore Chance (epsilon):  0.03151424750681587
+Exploit Chance (1-epsilon):  0.9684857524931841
+Learning Rate (alpha):  0.1
+Episode 34500, Mean Reward: -25.37, Success Rate: 0.69
+Explore Chance (epsilon):  0.03119910503174771
+Exploit Chance (1-epsilon):  0.9688008949682523
+Learning Rate (alpha):  0.1
+Episode 34600, Mean Reward: -13.55, Success Rate: 0.68
+Explore Chance (epsilon):  0.030887113981430233
+Exploit Chance (1-epsilon):  0.9691128860185698
+Learning Rate (alpha):  0.1
+Episode 34700, Mean Reward: -17.84, Success Rate: 0.68
+Explore Chance (epsilon):  0.03057824284161593
+Exploit Chance (1-epsilon):  0.9694217571583841
+Learning Rate (alpha):  0.1
+Episode 34800, Mean Reward: 1.82, Success Rate: 0.76
+Explore Chance (epsilon):  0.03027246041319977
+Exploit Chance (1-epsilon):  0.9697275395868002
+Learning Rate (alpha):  0.1
+Episode 34900, Mean Reward: 7.51, Success Rate: 0.79
+Explore Chance (epsilon):  0.029969735809067772
+Exploit Chance (1-epsilon):  0.9700302641909322
+Learning Rate (alpha):  0.1
+Episode 35000, Mean Reward: 19.87, Success Rate: 0.80
+Explore Chance (epsilon):  0.029670038450977095
+Exploit Chance (1-epsilon):  0.970329961549023
+Learning Rate (alpha):  0.1
+Episode 35100, Mean Reward: 5.25, Success Rate: 0.76
+Explore Chance (epsilon):  0.029373338066467324
+Exploit Chance (1-epsilon):  0.9706266619335326
+Learning Rate (alpha):  0.1
+Episode 35200, Mean Reward: 7.88, Success Rate: 0.79
+Explore Chance (epsilon):  0.02907960468580265
+Exploit Chance (1-epsilon):  0.9709203953141974
+Learning Rate (alpha):  0.1
+Episode 35300, Mean Reward: -6.07, Success Rate: 0.73
+Explore Chance (epsilon):  0.028788808638944622
+Exploit Chance (1-epsilon):  0.9712111913610554
+Learning Rate (alpha):  0.1
+Episode 35400, Mean Reward: -7.77, Success Rate: 0.71
+Explore Chance (epsilon):  0.028500920552555174
+Exploit Chance (1-epsilon):  0.9714990794474448
+Learning Rate (alpha):  0.1
+Episode 35500, Mean Reward: 8.39, Success Rate: 0.76
+Explore Chance (epsilon):  0.028215911347029624
+Exploit Chance (1-epsilon):  0.9717840886529704
+Learning Rate (alpha):  0.1
+Episode 35600, Mean Reward: 12.97, Success Rate: 0.75
+Explore Chance (epsilon):  0.027933752233559327
+Exploit Chance (1-epsilon):  0.9720662477664407
+Learning Rate (alpha):  0.1
+Episode 35700, Mean Reward: 5.13, Success Rate: 0.76
+Explore Chance (epsilon):  0.027654414711223735
+Exploit Chance (1-epsilon):  0.9723455852887762
+Learning Rate (alpha):  0.1
+Episode 35800, Mean Reward: -0.59, Success Rate: 0.77
+Explore Chance (epsilon):  0.027377870564111496
+Exploit Chance (1-epsilon):  0.9726221294358885
+Learning Rate (alpha):  0.1
+Episode 35900, Mean Reward: -3.77, Success Rate: 0.75
+Explore Chance (epsilon):  0.027104091858470382
+Exploit Chance (1-epsilon):  0.9728959081415296
+Learning Rate (alpha):  0.1
+Episode 36000, Mean Reward: 23.95, Success Rate: 0.82
+Explore Chance (epsilon):  0.026833050939885677
+Exploit Chance (1-epsilon):  0.9731669490601144
+Learning Rate (alpha):  0.1
+Episode 36100, Mean Reward: 17.51, Success Rate: 0.79
+Explore Chance (epsilon):  0.02656472043048682
+Exploit Chance (1-epsilon):  0.9734352795695131
+Learning Rate (alpha):  0.1
+Episode 36200, Mean Reward: 0.18, Success Rate: 0.75
+Explore Chance (epsilon):  0.02629907322618195
+Exploit Chance (1-epsilon):  0.973700926773818
+Learning Rate (alpha):  0.1
+Episode 36300, Mean Reward: 22.79, Success Rate: 0.78
+Explore Chance (epsilon):  0.026036082493920133
+Exploit Chance (1-epsilon):  0.9739639175060799
+Learning Rate (alpha):  0.1
+Episode 36400, Mean Reward: 11.32, Success Rate: 0.79
+Explore Chance (epsilon):  0.02577572166898093
+Exploit Chance (1-epsilon):  0.9742242783310191
+Learning Rate (alpha):  0.1
+Episode 36500, Mean Reward: 11.22, Success Rate: 0.78
+Explore Chance (epsilon):  0.025517964452291122
+Exploit Chance (1-epsilon):  0.9744820355477088
+Learning Rate (alpha):  0.1
+Episode 36600, Mean Reward: 23.51, Success Rate: 0.83
+Explore Chance (epsilon):  0.02526278480776821
+Exploit Chance (1-epsilon):  0.9747372151922318
+Learning Rate (alpha):  0.1
+Episode 36700, Mean Reward: 18.16, Success Rate: 0.78
+Explore Chance (epsilon):  0.025010156959690527
+Exploit Chance (1-epsilon):  0.9749898430403094
+Learning Rate (alpha):  0.1
+Episode 36800, Mean Reward: 13.68, Success Rate: 0.80
+Explore Chance (epsilon):  0.02476005539009362
+Exploit Chance (1-epsilon):  0.9752399446099064
+Learning Rate (alpha):  0.1
+Episode 36900, Mean Reward: 22.05, Success Rate: 0.82
+Explore Chance (epsilon):  0.024512454836192684
+Exploit Chance (1-epsilon):  0.9754875451638073
+Learning Rate (alpha):  0.1
+Episode 37000, Mean Reward: 3.23, Success Rate: 0.76
+Explore Chance (epsilon):  0.024267330287830756
+Exploit Chance (1-epsilon):  0.9757326697121692
+Learning Rate (alpha):  0.1
+Episode 37100, Mean Reward: 2.21, Success Rate: 0.78
+Explore Chance (epsilon):  0.024024656984952448
+Exploit Chance (1-epsilon):  0.9759753430150475
+Learning Rate (alpha):  0.1
+Episode 37200, Mean Reward: 6.07, Success Rate: 0.82
+Explore Chance (epsilon):  0.023784410415102923
+Exploit Chance (1-epsilon):  0.9762155895848971
+Learning Rate (alpha):  0.1
+Episode 37300, Mean Reward: 5.86, Success Rate: 0.76
+Explore Chance (epsilon):  0.023546566310951894
+Exploit Chance (1-epsilon):  0.9764534336890481
+Learning Rate (alpha):  0.1
+Episode 37400, Mean Reward: -15.32, Success Rate: 0.69
+Explore Chance (epsilon):  0.023311100647842375
+Exploit Chance (1-epsilon):  0.9766888993521576
+Learning Rate (alpha):  0.1
+Episode 37500, Mean Reward: -6.35, Success Rate: 0.72
+Explore Chance (epsilon):  0.02307798964136395
+Exploit Chance (1-epsilon):  0.976922010358636
+Learning Rate (alpha):  0.1
+Episode 37600, Mean Reward: -24.19, Success Rate: 0.66
+Explore Chance (epsilon):  0.022847209744950314
+Exploit Chance (1-epsilon):  0.9771527902550496
+Learning Rate (alpha):  0.1
+Episode 37700, Mean Reward: 3.98, Success Rate: 0.77
+Explore Chance (epsilon):  0.02261873764750081
+Exploit Chance (1-epsilon):  0.9773812623524992
+Learning Rate (alpha):  0.1
+Episode 37800, Mean Reward: 1.02, Success Rate: 0.73
+Explore Chance (epsilon):  0.022392550271025803
+Exploit Chance (1-epsilon):  0.9776074497289742
+Learning Rate (alpha):  0.1
+Episode 37900, Mean Reward: -4.95, Success Rate: 0.75
+Explore Chance (epsilon):  0.022168624768315544
+Exploit Chance (1-epsilon):  0.9778313752316845
+Learning Rate (alpha):  0.1
+Episode 38000, Mean Reward: -13.59, Success Rate: 0.72
+Explore Chance (epsilon):  0.02194693852063239
+Exploit Chance (1-epsilon):  0.9780530614793677
+Learning Rate (alpha):  0.1
+Episode 38100, Mean Reward: 1.51, Success Rate: 0.76
+Explore Chance (epsilon):  0.021727469135426065
+Exploit Chance (1-epsilon):  0.9782725308645739
+Learning Rate (alpha):  0.1
+Episode 38200, Mean Reward: 4.70, Success Rate: 0.77
+Explore Chance (epsilon):  0.021510194444071803
+Exploit Chance (1-epsilon):  0.9784898055559282
+Learning Rate (alpha):  0.1
+Episode 38300, Mean Reward: 8.49, Success Rate: 0.79
+Explore Chance (epsilon):  0.021295092499631085
+Exploit Chance (1-epsilon):  0.9787049075003689
+Learning Rate (alpha):  0.1
+Episode 38400, Mean Reward: 15.85, Success Rate: 0.79
+Explore Chance (epsilon):  0.021082141574634772
+Exploit Chance (1-epsilon):  0.9789178584253653
+Learning Rate (alpha):  0.1
+Episode 38500, Mean Reward: 7.05, Success Rate: 0.76
+Explore Chance (epsilon):  0.020871320158888425
+Exploit Chance (1-epsilon):  0.9791286798411116
+Learning Rate (alpha):  0.1
+Episode 38600, Mean Reward: 9.75, Success Rate: 0.78
+Explore Chance (epsilon):  0.020662606957299542
+Exploit Chance (1-epsilon):  0.9793373930427005
+Learning Rate (alpha):  0.1
+Episode 38700, Mean Reward: -1.05, Success Rate: 0.74
+Explore Chance (epsilon):  0.020455980887726547
+Exploit Chance (1-epsilon):  0.9795440191122734
+Learning Rate (alpha):  0.1
+Episode 38800, Mean Reward: -6.50, Success Rate: 0.72
+Explore Chance (epsilon):  0.02025142107884928
+Exploit Chance (1-epsilon):  0.9797485789211507
+Learning Rate (alpha):  0.1
+Episode 38900, Mean Reward: 2.70, Success Rate: 0.77
+Explore Chance (epsilon):  0.020048906868060788
+Exploit Chance (1-epsilon):  0.9799510931319392
+Learning Rate (alpha):  0.1
+Episode 39000, Mean Reward: 7.12, Success Rate: 0.77
+Explore Chance (epsilon):  0.01984841779938018
+Exploit Chance (1-epsilon):  0.9801515822006198
+Learning Rate (alpha):  0.1
+Episode 39100, Mean Reward: 10.59, Success Rate: 0.82
+Explore Chance (epsilon):  0.019649933621386378
+Exploit Chance (1-epsilon):  0.9803500663786137
+Learning Rate (alpha):  0.1
+Episode 39200, Mean Reward: 17.57, Success Rate: 0.83
+Explore Chance (epsilon):  0.019453434285172513
+Exploit Chance (1-epsilon):  0.9805465657148275
+Learning Rate (alpha):  0.1
+Episode 39300, Mean Reward: 27.21, Success Rate: 0.83
+Explore Chance (epsilon):  0.019258899942320787
+Exploit Chance (1-epsilon):  0.9807411000576792
+Learning Rate (alpha):  0.1
+Episode 39400, Mean Reward: -4.17, Success Rate: 0.74
+Explore Chance (epsilon):  0.01906631094289758
+Exploit Chance (1-epsilon):  0.9809336890571024
+Learning Rate (alpha):  0.1
+Episode 39500, Mean Reward: -5.63, Success Rate: 0.71
+Explore Chance (epsilon):  0.018875647833468602
+Exploit Chance (1-epsilon):  0.9811243521665314
+Learning Rate (alpha):  0.1
+Episode 39600, Mean Reward: 14.84, Success Rate: 0.81
+Explore Chance (epsilon):  0.018686891355133916
+Exploit Chance (1-epsilon):  0.9813131086448661
+Learning Rate (alpha):  0.1
+Episode 39700, Mean Reward: -14.04, Success Rate: 0.68
+Explore Chance (epsilon):  0.018500022441582577
+Exploit Chance (1-epsilon):  0.9814999775584174
+Learning Rate (alpha):  0.1
+Episode 39800, Mean Reward: -7.79, Success Rate: 0.72
+Explore Chance (epsilon):  0.01831502221716675
+Exploit Chance (1-epsilon):  0.9816849777828333
+Learning Rate (alpha):  0.1
+Episode 39900, Mean Reward: 12.50, Success Rate: 0.81
+Explore Chance (epsilon):  0.018131871994995084
+Exploit Chance (1-epsilon):  0.9818681280050049
+Learning Rate (alpha):  0.1
+Episode 40000, Mean Reward: -16.12, Success Rate: 0.71
+Explore Chance (epsilon):  0.017950553275045134
+Exploit Chance (1-epsilon):  0.9820494467249549
+Learning Rate (alpha):  0.1
+Episode 40100, Mean Reward: 10.25, Success Rate: 0.80
+Explore Chance (epsilon):  0.017771047742294682
+Exploit Chance (1-epsilon):  0.9822289522577053
+Learning Rate (alpha):  0.1
+Episode 40200, Mean Reward: 7.57, Success Rate: 0.76
+Explore Chance (epsilon):  0.017593337264871736
+Exploit Chance (1-epsilon):  0.9824066627351282
+Learning Rate (alpha):  0.1
+Episode 40300, Mean Reward: -14.93, Success Rate: 0.71
+Explore Chance (epsilon):  0.01741740389222302
+Exploit Chance (1-epsilon):  0.982582596107777
+Learning Rate (alpha):  0.1
+Episode 40400, Mean Reward: -0.97, Success Rate: 0.71
+Explore Chance (epsilon):  0.01724322985330079
+Exploit Chance (1-epsilon):  0.9827567701466993
+Learning Rate (alpha):  0.1
+Episode 40500, Mean Reward: 8.69, Success Rate: 0.76
+Explore Chance (epsilon):  0.017070797554767782
+Exploit Chance (1-epsilon):  0.9829292024452322
+Learning Rate (alpha):  0.1
+Episode 40600, Mean Reward: 10.59, Success Rate: 0.78
+Explore Chance (epsilon):  0.016900089579220106
+Exploit Chance (1-epsilon):  0.9830999104207799
+Learning Rate (alpha):  0.1
+Episode 40700, Mean Reward: 6.19, Success Rate: 0.77
+Explore Chance (epsilon):  0.016731088683427906
+Exploit Chance (1-epsilon):  0.9832689113165721
+Learning Rate (alpha):  0.1
+Episode 40800, Mean Reward: 15.45, Success Rate: 0.81
+Explore Chance (epsilon):  0.016563777796593626
+Exploit Chance (1-epsilon):  0.9834362222034063
+Learning Rate (alpha):  0.1
+Episode 40900, Mean Reward: -9.89, Success Rate: 0.72
+Explore Chance (epsilon):  0.016398140018627688
+Exploit Chance (1-epsilon):  0.9836018599813723
+Learning Rate (alpha):  0.1
+Iniciando Teste
+Episodes 1000, Mean Reward: -5.89, Success Rate: 74%
